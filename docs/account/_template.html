@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>account — stats-dashboard</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a href="../index.html" class="brand">← stats · <span class="mono">back</span></a>
+    <div class="updated mono" id="last-updated">—</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="account-hero">
+    <p class="lead mono" id="platform-tag">—</p>
+    <h1 id="handle-title">@—</h1>
+  </div>
+
+  <div class="chart-wrap">
+    <h3 class="mono" style="text-transform: uppercase; color: var(--ink-3); margin-bottom: 12px;">Followers over time</h3>
+    <canvas id="followers-chart" height="100"></canvas>
+  </div>
+
+  <div class="chart-wrap">
+    <h3 class="mono" style="text-transform: uppercase; color: var(--ink-3); margin-bottom: 12px;">Top recent posts</h3>
+    <div class="top-posts" id="top-posts"></div>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script>
+// Extract "platform-handle" from URL: e.g. instagram-marketplacecard.html
+const match = location.pathname.match(/\/account\/([^-]+)-([^.]+)\.html$/);
+if (!match) throw new Error('bad account URL');
+const platform = match[1];
+const handle = match[2];
+document.getElementById('platform-tag').textContent = platform;
+document.getElementById('handle-title').textContent = `@${handle}`;
+document.title = `@${handle} · ${platform} · stats`;
+
+async function loadHistory(days = 60) {
+  const items = [];
+  const today = new Date();
+  for (let i = 0; i < days; i++) {
+    const d = new Date(today);
+    d.setUTCDate(d.getUTCDate() - i);
+    const stamp = d.toISOString().slice(0, 10);
+    const res = await fetch(`../data/${platform}/${handle}/${stamp}.json`);
+    if (res.ok) items.push({ date: stamp, data: await res.json() });
+  }
+  return items.reverse();
+}
+
+function extractFollowers(snap) {
+  const p = snap.data.profile || {};
+  if (platform === 'instagram') return p.follower_count ?? p.followers ?? p.data?.user?.follower_count;
+  if (platform === 'tiktok') return p.stats?.followerCount ?? p.follower_count ?? p.user?.followerCount;
+  if (platform === 'threads') return p.follower_count ?? p.followers;
+  if (platform === 'youtube') return p.subscriber_count ?? p.subscribers;
+  return null;
+}
+
+(async () => {
+  const history = await loadHistory();
+  if (!history.length) {
+    document.getElementById('followers-chart').replaceWith(
+      Object.assign(document.createElement('p'), { className: 'empty', textContent: 'Нет данных.' })
+    );
+    return;
+  }
+  document.getElementById('last-updated').textContent = `updated ${history[history.length-1].date}`;
+
+  const labels = history.map(h => h.date);
+  const data = history.map(h => extractFollowers(h) ?? null);
+
+  new Chart(document.getElementById('followers-chart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: 'followers',
+        data,
+        borderColor: '#2563EB',
+        backgroundColor: 'rgba(37, 99, 235, 0.08)',
+        borderWidth: 2,
+        tension: 0.3,
+        fill: true,
+      }],
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: {
+        y: { beginAtZero: false, grid: { color: 'rgba(0,0,0,0.05)' } },
+        x: { grid: { display: false } },
+      },
+    },
+  });
+
+  // Top posts from latest snapshot
+  const latest = history[history.length - 1];
+  const posts = latest.data.posts?.items || latest.data.posts?.data || [];
+  const list = Array.isArray(posts) ? posts.slice(0, 6) : [];
+  const box = document.getElementById('top-posts');
+  if (!list.length) {
+    box.innerHTML = '<p class="empty">Нет постов в последнем снапшоте.</p>';
+    return;
+  }
+  box.innerHTML = list.map(p => {
+    const likes = p.like_count ?? p.likes ?? p.stats?.diggCount ?? 0;
+    const views = p.play_count ?? p.views ?? p.stats?.playCount ?? 0;
+    const comments = p.comment_count ?? p.comments ?? p.stats?.commentCount ?? 0;
+    const caption = (p.caption ?? p.desc ?? p.text ?? '').toString().slice(0, 140);
+    return `<div class="post-card">
+      <div class="mono" style="color: var(--ink-3); margin-bottom: 6px;">${likes.toLocaleString('ru-RU')} likes · ${comments} c · ${views.toLocaleString('ru-RU')} v</div>
+      <div>${caption || '<em style="color:var(--ink-4)">no caption</em>'}</div>
+    </div>`;
+  }).join('');
+})();
+</script>
+</body>
+</html>

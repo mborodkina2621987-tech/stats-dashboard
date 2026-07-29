@@ -1,0 +1,21 @@
+# Canonical 6 accounts for Maria (verified 2026-07-20).
+# Add/remove entries here — fetch scripts read this file each run.
+accounts:
+  - platform: instagram
+    handle: marketplacecard
+    brand: marketplacecard
+  - platform: tiktok
+    handle: marketplacecard
+    brand: marketplacecard
+  - platform: threads
+    handle: marketplacecard
+    brand: marketplacecard
+  - platform: instagram
+    handle: vibecoder.maria
+    brand: vibecoder
+  - platform: threads
+    handle: vibecoder.maria
+    brand: vibecoder
+  - platform: tiktok
+    handle: mariaborodkina8
+    brand: vibecoder

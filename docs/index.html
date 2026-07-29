@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>stats-dashboard · Maria</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <div class="brand">stats · <span class="mono">Maria</span></div>
+    <div class="updated mono" id="last-updated">—</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1>Дашборд соцсетей</h1>
+  <p class="lead mono">6 аккаунтов · 3 платформы · daily snapshot 08:00 UTC</p>
+
+  <div id="grid" class="grid"></div>
+
+  <p id="empty" class="empty" hidden>Ещё нет данных. Первый fetch запустится по крону или вручную из Actions.</p>
+</main>
+
+<footer class="footer wrap">
+  <span class="mono">stats-dashboard v0.1</span>
+  <a href="https://github.com/mborodkina2621987-tech/stats-dashboard" class="mono">github</a>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script>
+async function loadAccounts() {
+  const res = await fetch('./accounts.yml');
+  if (!res.ok) return [];
+  const text = await res.text();
+  const doc = jsyaml.load(text);
+  return doc.accounts || [];
+}
+
+async function latestSnapshot(platform, handle) {
+  // Try today first, walk back up to 14 days.
+  const today = new Date();
+  for (let i = 0; i < 14; i++) {
+    const d = new Date(today);
+    d.setUTCDate(d.getUTCDate() - i);
+    const stamp = d.toISOString().slice(0, 10);
+    const url = `./data/${platform}/${handle}/${stamp}.json`;
+    const res = await fetch(url);
+    if (res.ok) return { date: stamp, data: await res.json() };
+  }
+  return null;
+}
+
+function extractFollowers(platform, snap) {
+  if (!snap) return null;
+  const p = snap.data.profile || {};
+  if (platform === 'instagram') return p.follower_count ?? p.followers ?? p.data?.user?.follower_count;
+  if (platform === 'tiktok') return p.stats?.followerCount ?? p.follower_count ?? p.user?.followerCount;
+  if (platform === 'threads') return p.follower_count ?? p.followers;
+  if (platform === 'youtube') return p.subscriber_count ?? p.subscribers;
+  return null;
+}
+
+function card(account, snap) {
+  const followers = extractFollowers(account.platform, snap);
+  const dateLabel = snap ? snap.date : 'нет данных';
+  const posts = snap?.data?.posts?.items || snap?.data?.posts?.data || [];
+  const postCount = Array.isArray(posts) ? posts.length : 0;
+  return `
+    <a class="card" href="./account/${account.platform}-${account.handle}.html">
+      <div class="card-head">
+        <span class="platform mono">${account.platform}</span>
+        <span class="date mono">${dateLabel}</span>
+      </div>
+      <div class="handle">@${account.handle}</div>
+      <div class="brand-tag mono">${account.brand}</div>
+      <div class="metric">
+        <span class="num">${followers?.toLocaleString('ru-RU') ?? '—'}</span>
+        <span class="label mono">followers</span>
+      </div>
+      <div class="metric-row">
+        <div><span class="num-s">${postCount}</span> <span class="mono">recent posts</span></div>
+      </div>
+    </a>
+  `;
+}
+
+(async () => {
+  const accounts = await loadAccounts();
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  let latestDate = null;
+  const cards = [];
+  for (const acc of accounts) {
+    const snap = await latestSnapshot(acc.platform, acc.handle);
+    if (snap && (!latestDate || snap.date > latestDate)) latestDate = snap.date;
+    cards.push(card(acc, snap));
+  }
+  grid.innerHTML = cards.join('');
+  if (latestDate) {
+    document.getElementById('last-updated').textContent = `updated ${latestDate}`;
+  } else {
+    empty.hidden = false;
+  }
+})();
+</script>
+</body>
+</html>
