@@ -1,0 +1,1590 @@
+{
+  "platform": "threads",
+  "handle": "vibecoder.maria",
+  "fetched_at": "2026-08-14T09:03:15.240081+00:00",
+  "profile": {
+    "success": true,
+    "credits_remaining": 22844,
+    "credits_charged": 1,
+    "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFFA-gbzOej4v7u-D2U-xz5dtwV_iMne82RkTIcGHLJl3soFcSIVDWfR59YAqjzwIk&_nc_ohc=7y7cFknhP6EQ7kNvwFxce3K&_nc_gid=EFeT2g2q-1Iwlde0eYM4eQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHfrXbnvbnpluyncXI0TKg5UIoBa8DODdR8A2wXg_yhKg&oe=6A849730&_nc_sid=10d13b",
+    "friendship_status": null,
+    "has_onboarded_to_text_post_app": true,
+    "pk": "42773128424",
+    "text_post_app_is_private": false,
+    "username": "vibecoder.maria",
+    "text_post_app_remove_mention_entrypoint": null,
+    "text_app_custom_feeds": null,
+    "gating": null,
+    "follower_count": 1,
+    "profile_context_facepile_users": null,
+    "text_post_app_public_views": null,
+    "hd_profile_pic_versions": [
+      {
+        "height": 320,
+        "url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFFA-gbzOej4v7u-D2U-xz5dtwV_iMne82RkTIcGHLJl3soFcSIVDWfR59YAqjzwIk&_nc_ohc=7y7cFknhP6EQ7kNvwFxce3K&_nc_gid=EFeT2g2q-1Iwlde0eYM4eQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHCnBYrfIo774HUIv4ZTispeHOP_t85xasuV9Ra6ts1LQ&oe=6A849730&_nc_sid=10d13b",
+        "width": 320
+      },
+      {
+        "height": 640,
+        "url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFFA-gbzOej4v7u-D2U-xz5dtwV_iMne82RkTIcGHLJl3soFcSIVDWfR59YAqjzwIk&_nc_ohc=7y7cFknhP6EQ7kNvwFxce3K&_nc_gid=EFeT2g2q-1Iwlde0eYM4eQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH5s5cGwaXWSp4ymLChSGO6IXipOS-oy6bBK0zJNw0HuQ&oe=6A849730&_nc_sid=10d13b",
+        "width": 640
+      }
+    ],
+    "is_verified": false,
+    "biography": "Собираю сайты · AI-агенты · автоматизацию\nЗа 5 дней вместо 3 месяцев\nmborodkina.ru",
+    "text_app_biography": {
+      "text_fragments": {
+        "fragments": [
+          {
+            "fragment_type": "plaintext",
+            "link_fragment": null,
+            "mention_fragment": null,
+            "plaintext": "Собираю сайты · AI-агенты · автоматизацию\nЗа 5 дней вместо 3 месяцев\nmborodkina.ru",
+            "inline_sticker_fragment": null,
+            "linkified_web_url": null,
+            "linkified_in_app_url": null,
+            "styling_info": null
+          }
+        ]
+      }
+    },
+    "full_name": "Мария • vibecoder",
+    "bio_links": [],
+    "profile_tags": {
+      "edges": []
+    },
+    "transparency_label": null,
+    "show_text_post_app_badge": true,
+    "platform_podcast_info": null,
+    "platform_podcast_episode_info": null,
+    "id": "42773128424"
+  },
+  "posts": {
+    "success": true,
+    "credits_remaining": 22843,
+    "credits_charged": 1,
+    "posts": [
+      {
+        "id": "3958987097620892544_42773128424",
+        "pk": "3958987097620892544",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Задача: скопилось 1000+ PDF без имён и структуры. Латиница вперемешку с транслитом, дубли, случайные названия. Задача жила в списке «когда-нибудь» — потому что руками это долго и нудно.\n\nAI-команда разобрала за 2 дня. Три шага: распознать → переименовать → разложить. Ни одного файла руками.\n\nЧто в твоей жизни ждёт «когда-нибудь» — а можно закрыть за неделю с AI?",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 5,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Задача: скопилось 1000+ PDF без имён и структуры. Латиница вперемешку с транслитом, дубли, случайные названия. Задача жила в списке «когда-нибудь» — потому что руками это долго и нудно.\n\nAI-команда разобрала за 2 дня. Три шага: распознать → переименовать → разложить. Ни одного файла руками.\n\nЧто в твоей жизни ждёт «когда-нибудь» — а можно закрыть за неделю с AI?",
+          "pk": "18137121625588559",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbxJcooDEuA",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1786168060,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk1ODk4NzA5NzYyMDg5MjU0NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbxJcooDEuA"
+      },
+      {
+        "id": "3955009614508735474_42773128424",
+        "pk": "3955009614508735474",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Как выбрать AI под задачу в 2026. Не по хайпу. Не по «все ставят Claude». По конкретной задаче — конкретный инструмент. \n\nСтек, который работает у меня сегодня: \nНаписать статью, пост, копи → Claude 4.7 (держит стиль на длинных текстах) \n\nРесёрч рынка с проверенными ссылками → Perplexity Sonar (citations в каждом ответе) \n\nПроанализировать таблицу или CSV → ChatGPT Code Interpreter (пишет и выполняет Python в чате) \n\nСгенерить арт-картинку → Midjourney (детализация) или Flux 1.1 Pro (быстрее)",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 2,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Как выбрать AI под задачу в 2026. Не по хайпу. Не по «все ставят Claude». По конкретной задаче — конкретный инструмент. \n\nСтек, который работает у меня сегодня: \nНаписать статью, пост, копи → Claude 4.7 (держит стиль на длинных текстах) \n\nРесёрч рынка с проверенными ссылками → Perplexity Sonar (citations в каждом ответе) \n\nПроанализировать таблицу или CSV → ChatGPT Code Interpreter (пишет и выполняет Python в чате) \n\nСгенерить арт-картинку → Midjourney (детализация) или Flux 1.1 Pro (быстрее)",
+          "pk": "18158577394470794",
+          "has_translation": true
+        },
+        "caption_is_edited": true,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbjBEo0DDvy",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1785693908,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk1NTAwOTYxNDUwODczNTQ3NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbjBEo0DDvy"
+      },
+      {
+        "id": "3954010939913448111_42773128424",
+        "pk": "3954010939913448111",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "code.claude.com",
+            "favicon_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9491305770328188246?url=https%3A%2F%2Fcode.claude.com%2Fdocs%2F_mintlify%2Ffavicons%2Fclaude-code%2FpLsy-mRpNksna2sx%2F_generated%2Ffavicon-dark%2Ffavicon-32x32.png&utld=claude.com&stp=dst-png_s42x42&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=AdqC2E7K0DvS9aIbmVFdyetKonNmsL4zIGf7OYrSiM63EN5GUcwDNeJJ_2BZB1OdZs0&ccb=13-1&oh=06_Q3_CAXDlKz5UAX2vwaFiAMm7TyMb4KaKFfDzGu8VIASM5dsB&oe=6A80AE9F&_nc_sid=1d65fc",
+            "image_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3573926598602335785?stp=dst-src&url=https%3A%2F%2Fclaude-code.mintlify.app%2F_next%2Fimage%3Furl%3D%252F_mintlify%252Fapi%252Fog%253Fdivision%253DGetting%252Bstarted%2526appearance%253Dsystem%2526title%253DOverview%2526description%253DClaude%252BCode%252Bis%252Ban%252Bagentic%252Bcoding%252Btool%252Bthat%252Breads%252Byour%252Bcodebase%25252C%252Bedits%252Bfiles%25252C%252Bruns%252Bcommands%25252C%252Band%252Bintegrates%252Bwith%252Byour%252Bdevelopment%252Btools.%252BAvailable%252Bin%252Byour%252Btermin%2526logoLight%253Dhttps%25253A%25252F%25252Fmintcdn.com%25252Fclaude-code%25252Fc5r9_6tjPMzFdDDT%25252Flogo%25252Flight.svg%25253Ffit%25253Dmax%252526auto%25253Dformat%252526n%25253Dc5r9_6tjPMzFdDDT%252526q%25253D85%252526s%25253D78fd01ff4f4340295a4f66e2ea54903c%2526logoDark%253Dhttps%25253A%25252F%25252Fmintcdn.com%25252Fclaude-code%25252Fc5r9_6tjPMzFdDDT%25252Flogo%25252Fdark.svg%25253Ffit%25253Dmax%252526auto%25253Dformat%252526n%25253Dc5r9_6tjPMzFdDDT%252526q%25253D85%252526s%25253D1298a0c3b3a1da603b190d0de0e31712%2526primaryColor%253D%2525230E0E0E%2526lightColor%253D%252523D4A27F%2526backgroundLight%253D%252523FDFDF7%2526backgroundDark%253D%25252309090B%26w%3D1200%26q%3D100&utld=mintlify.app&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=Adp1GCnT49LAB7GidwfcUfUu1wCWJcPcwTFl2v8GyIh1pDzXZd1N1BqMveyJc3fr_h8&ccb=13-1&oh=06_Q3_CARXKSv_VAKv13rZRp0oCf0tfvk9pPuB48rnBQNwjSn6S&oe=6A80C4C1&_nc_sid=1d65fc",
+            "title": "Overview - Claude Code Docs",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Fclaude.md%2F&e=AUBau2X565Kg1LMWi6V2517jEGDDa4JBvLPkyfaDzoUoP2cFx66JGVO3w8jK-4EXTXKohrLOWAFVlzo6e4kHfPKMq9v47-FoZhBVWyhBe5b8PHO-ydYTKm_f41_HI1wr"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Claude Code — 7 папок правильного проекта. \n\nБольшинство сваливает всё в один ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": ". А сила — в структуре: агент видит нужный слой в нужный момент. \n\n📄 ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " — карта проекта \n🔒 .claude/ — где живёт вся магия \n📐 rules/ — правила для агента \n⚡ commands/ — свои /слэш-команды\n🧩 skills/ — навыки под задачу \n🤖 agents/ — суб-агенты со своим контекстом \n🪝 hooks/ — event-driven защита",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": 6,
+          "direct_reply_count": 2,
+          "repost_count": 1,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Claude Code — 7 папок правильного проекта. \n\nБольшинство сваливает всё в один CLAUDE.md. А сила — в структуре: агент видит нужный слой в нужный момент. \n\n📄 CLAUDE.md — карта проекта \n🔒 .claude/ — где живёт вся магия \n📐 rules/ — правила для агента \n⚡ commands/ — свои /слэш-команды\n🧩 skills/ — навыки под задачу \n🤖 agents/ — суб-агенты со своим контекстом \n🪝 hooks/ — event-driven защита",
+          "pk": "18022657823899709",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbfeAAnjKqv",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 15,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1785574856,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk1NDAxMDkzOTkxMzQ0ODExMSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbfeAAnjKqv"
+      },
+      {
+        "id": "3953322847112064192_42773128424",
+        "pk": "3953322847112064192",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Claude умеет намного больше чем просто чат. 9 функций для тех, кто работает с AI ежедневно. \n\n1. Артефакты — интерактивные приложения \nпрямо в чате. «Собери недельный планер со слотами с 9 до 18» — получаешь готовое приложение, можно скачать и редактировать. \n\n2. Коннекторы — Gmail, Google Drive, Slack, Notion, Figma, Outlook, 50+ сервисов. Каждое подключение 30 секунд. Потом можно спросить «Найди все письма за прошлую неделю про Q3 и сделай сводку».",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 3,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Claude умеет намного больше чем просто чат. 9 функций для тех, кто работает с AI ежедневно. \n\n1. Артефакты — интерактивные приложения \nпрямо в чате. «Собери недельный планер со слотами с 9 до 18» — получаешь готовое приложение, можно скачать и редактировать. \n\n2. Коннекторы — Gmail, Google Drive, Slack, Notion, Figma, Outlook, 50+ сервисов. Каждое подключение 30 секунд. Потом можно спросить «Найди все письма за прошлую неделю про Q3 и сделай сводку».",
+          "pk": "18063453425575202",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbdBi8QjOzA",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1785492829,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk1MzMyMjg0NzExMjA2NDE5MiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbdBi8QjOzA"
+      },
+      {
+        "id": "3950979676826778967_42773128424",
+        "pk": "3950979676826778967",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Год назад у меня была одна цель: собирать сайты клиентам так же быстро, как думаешь.\n\nНе через шаблоны. Под реальный бизнес.\n\nСобрала 5 AI-агентов — каждому дала роль в моём флоу. Работают лучше чем команда из 5 человек.\n\nПоказываю по одному ↓",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 6,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Год назад у меня была одна цель: собирать сайты клиентам так же быстро, как думаешь.\n\nНе через шаблоны. Под реальный бизнес.\n\nСобрала 5 AI-агентов — каждому дала роль в моём флоу. Работают лучше чем команда из 5 человек.\n\nПоказываю по одному ↓",
+          "pk": "17926491261371613",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbUsxU4DD1X",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1785213502,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk1MDk3OTY3NjgyNjc3ODk2NyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbUsxU4DD1X"
+      },
+      {
+        "id": "3948834684972874781_42773128424",
+        "pk": "3948834684972874781",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Что такое AI-агент. Это не чатбот, где ты пишешь — он отвечает. Это программа, которая: — знает твою задачу — имеет доступ к твоим инструментам — принимает решения сама Реальный кейс из моего workflow: Я публикую пост в Threads. Правило — не повторять тему 14 дней. Раньше вручную читала 10-15 прошлых постов, сравнивала. 10 минут. Сегодня: Claude через MCP-сервер сам вытянул 8 моих последних Threads-постов, сверил темы, дал вердикт «уникально». 3 секунды. Разница с чатботом? Чатбот отвечает.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Что такое AI-агент. Это не чатбот, где ты пишешь — он отвечает. Это программа, которая: — знает твою задачу — имеет доступ к твоим инструментам — принимает решения сама Реальный кейс из моего workflow: Я публикую пост в Threads. Правило — не повторять тему 14 дней. Раньше вручную читала 10-15 прошлых постов, сравнивала. 10 минут. Сегодня: Claude через MCP-сервер сам вытянул 8 моих последних Threads-постов, сверил темы, дал вердикт «уникально». 3 секунды. Разница с чатботом? Чатбот отвечает.",
+          "pk": "18109178587820482",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbNFDlijLwd",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784957799,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0ODgzNDY4NDk3Mjg3NDc4MSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbNFDlijLwd"
+      },
+      {
+        "id": "3947398405303358615_42773128424",
+        "pk": "3947398405303358615",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "t.me",
+            "favicon_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3707656811569877538?url=https%3A%2F%2Ftelegram.org%2Fimg%2Ffavicon-16x16.png&utld=telegram.org&stp=dst-png_s42x42&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=AdpIoFf3Q4Q5T2K7vSmH0G0Q9ICDrjtfKGfgl_oQSZdya-DkdKOKYHXKpBz8eJV95ao&ccb=13-1&oh=06_Q3_CAfTSRa1zlvDbafrL-07WXLeOu9KjSj7VB7l-kt-MahZp&oe=6A80A09C&_nc_sid=1d65fc",
+            "image_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/10362027356676213552?stp=dst-src&url=https%3A%2F%2Ftelegram.org%2Fimg%2Ft_logo_2x.png&utld=telegram.org&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=AdrPB1u3_CUlJSdHDEz8DfM2dGdw0I6l5drSpuQT4pTsGAJ5m9a9l_j2xBzsDeYbQIE&ccb=13-1&oh=06_Q3_CASPw2sJrnda3P3a9E5H5ptZ5nquGlHr5cPxb-QKGcOJr&oe=6A809DB6&_nc_sid=1d65fc",
+            "title": "AI Studio Borodkina",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Ft.me%2FStudioBorodkinabot&e=AUBvYc6vhEX_GiVer-0yILHGjFjwia8hEavA-t4-CvkRuEpNjNYGohgiy6bkfMENvLvZAhXvJgHyRJzKbubq4b5CzokcoG8dvLeBGhVGKaNRygCTEV1R_HabKhA0We0S"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Тебе нужен technical-аудит сайта?\nАгентство берёт от 45 000₽ и 2-3 дня работы.\n\nМой AI-бот — 30 секунд:\n- PageSpeed по mobile/desktop\n- Оценка по 5 категориям: дизайн, mobile, performance, UX, копирайт\n- Список фиксов в порядке приоритета\n\n",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "t.me/Studi…",
+                  "uri": "http://t.me/StudioBorodkinabot"
+                },
+                "mention_fragment": null,
+                "plaintext": "t.me/StudioBorodkinabot",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "\n2 бесплатных разбора.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Тебе нужен technical-аудит сайта?\nАгентство берёт от 45 000₽ и 2-3 дня работы.\n\nМой AI-бот — 30 секунд:\n- PageSpeed по mobile/desktop\n- Оценка по 5 категориям: дизайн, mobile, performance, UX, копирайт\n- Список фиксов в порядке приоритета\n\nt.me/StudioBorodkinabot\n2 бесплатных разбора.",
+          "pk": "18049375688794482",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbH-e93DNSX",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784786581,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0NzM5ODQwNTMwMzM1ODYxNSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbH-e93DNSX"
+      },
+      {
+        "id": "3946131093027856698_42773128424",
+        "pk": "3946131093027856698",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "t.me",
+            "favicon_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3707656811569877538?url=https%3A%2F%2Ftelegram.org%2Fimg%2Ffavicon-16x16.png&utld=telegram.org&stp=dst-png_s42x42&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=AdpIoFf3Q4Q5T2K7vSmH0G0Q9ICDrjtfKGfgl_oQSZdya-DkdKOKYHXKpBz8eJV95ao&ccb=13-1&oh=06_Q3_CAfTSRa1zlvDbafrL-07WXLeOu9KjSj7VB7l-kt-MahZp&oe=6A80A09C&_nc_sid=1d65fc",
+            "image_url": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/10362027356676213552?stp=dst-src&url=https%3A%2F%2Ftelegram.org%2Fimg%2Ft_logo_2x.png&utld=telegram.org&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&_nc_oc=AdrPB1u3_CUlJSdHDEz8DfM2dGdw0I6l5drSpuQT4pTsGAJ5m9a9l_j2xBzsDeYbQIE&ccb=13-1&oh=06_Q3_CASPw2sJrnda3P3a9E5H5ptZ5nquGlHr5cPxb-QKGcOJr&oe=6A809DB6&_nc_sid=1d65fc",
+            "title": "AI Studio Borodkina",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Ft.me%2FStudioBorodkinabot&e=AUBvYc6vhEX_GiVer-0yILHGjFjwia8hEavA-t4-CvkRuEpNjNYGohgiy6bkfMENvLvZAhXvJgHyRJzKbubq4b5CzokcoG8dvLeBGhVGKaNRygCTEV1R_HabKhA0We0S"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "За 30 секунд AI-бот показал что мой лендинг — 79/100 Performance. За 35 минут coder поднял до 95+.\n\nХочешь узнать real-цифры своего сайта? Дай URL моему боту → ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "t.me/Studi…",
+                  "uri": "http://t.me/StudioBorodkinabot"
+                },
+                "mention_fragment": null,
+                "plaintext": "t.me/StudioBorodkinabot",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": ". Бесплатно, первые 5.\n\n(Половина сайтов «дорогих студий» показывают Perf < 60. Проверь свой.)",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "За 30 секунд AI-бот показал что мой лендинг — 79/100 Performance. За 35 минут coder поднял до 95+.\n\nХочешь узнать real-цифры своего сайта? Дай URL моему боту → t.me/StudioBorodkinabot. Бесплатно, первые 5.\n\n(Половина сайтов «дорогих студий» показывают Perf < 60. Проверь свой.)",
+          "pk": "17899024860506815",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbDeVJVDKE6",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784635505,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0NjEzMTA5MzAyNzg1NjY5OCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbDeVJVDKE6"
+      },
+      {
+        "id": "3945676767679846092_42773128424",
+        "pk": "3945676767679846092",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Пришли URL любого сайта в Telegram-бот ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "t.me/Studi…",
+                  "uri": "http://t.me/StudioBorodkinabot"
+                },
+                "mention_fragment": null,
+                "plaintext": "t.me/StudioBorodkinabot",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " — AI разберёт по 5 категориям за 5 минут. Бесплатно, только 5 первых.\n\n(промпт полностью — на моём последнем IG-Reel)",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Пришли URL любого сайта в Telegram-бот t.me/StudioBorodkinabot — AI разберёт по 5 категориям за 5 минут. Бесплатно, только 5 первых.\n\n(промпт полностью — на моём последнем IG-Reel)",
+          "pk": "18109959679801428",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DbB3B14EZbM",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784581346,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0NTY3Njc2NzY3OTg0NjA5MiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DbB3B14EZbM"
+      },
+      {
+        "id": "3944688723505736878_42773128424",
+        "pk": "3944688723505736878",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "5 признаков что твой сайт живёт в 2010. Сохрани, проверь свой. \n\n1. Виджет-чат — отвечает по скрипту, без AI. Клиенты уходят молча. \n2. Форма «имя+телефон» вместо AI-брифа. Звонишь в пустоту без задачи. \n3. «Уникальный», «№1», «лучший» — Google не ранжирует по общим словам. 0 органики. \n4. Один mobile — просто desktop уменьшенный. 70% трафика с телефона уходит.\n5. Стоковый hero-фото. Забудут тебя через 3 секунды. Если 3+ совпало — время на редизайн.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "5 признаков что твой сайт живёт в 2010. Сохрани, проверь свой. \n\n1. Виджет-чат — отвечает по скрипту, без AI. Клиенты уходят молча. \n2. Форма «имя+телефон» вместо AI-брифа. Звонишь в пустоту без задачи. \n3. «Уникальный», «№1», «лучший» — Google не ранжирует по общим словам. 0 органики. \n4. Один mobile — просто desktop уменьшенный. 70% трафика с телефона уходит.\n5. Стоковый hero-фото. Забудут тебя через 3 секунды. Если 3+ совпало — время на редизайн.",
+          "pk": "17901272040525960",
+          "has_translation": true
+        },
+        "caption_is_edited": true,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Da-WX6CDGyu",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784463561,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0NDY4ODcyMzUwNTczNjg3OCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Da-WX6CDGyu"
+      },
+      {
+        "id": "3944053544491725897_42773128424",
+        "pk": "3944053544491725897",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Пока копипастили промпты, Claude научился ходить в интернет сам.\n\nВстроенный браузер в Claude Code — агент теперь не только пишет код, но и читает документацию, проверяет API, находит ошибки на реальных сайтах в реальном времени.\n\nНа неделе разбираю 5 use-case'ов — первое, что попробуешь?\n\nПодпишись на ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "mention",
+                "link_fragment": null,
+                "mention_fragment": {
+                  "mention_type": "text_app_profile",
+                  "mentioned_user": {
+                    "username": "vibecoder.maria",
+                    "id": "42773128424"
+                  }
+                },
+                "plaintext": "@vibecoder.maria",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " — в закрепе полный vibe-coding stack.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Пока копипастили промпты, Claude научился ходить в интернет сам.\n\nВстроенный браузер в Claude Code — агент теперь не только пишет код, но и читает документацию, проверяет API, находит ошибки на реальных сайтах в реальном времени.\n\nНа неделе разбираю 5 use-case'ов — первое, что попробуешь?\n\nПодпишись на @vibecoder.maria — в закрепе полный vibe-coding stack.",
+          "pk": "17888913981411074",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Da8F81ejLRJ",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784387842,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0NDA1MzU0NDQ5MTcyNTg5NyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Da8F81ejLRJ"
+      },
+      {
+        "id": "3943470152708850184_42773128424",
+        "pk": "3943470152708850184",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Самый быстрый способ потерять клиента в 2026: не ответить в течение часа.\nСамый быстрый способ удержать — AI ответит за 3 секунды.\n\nЧто для тебя важнее — скорость ответа или личный подход?",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Самый быстрый способ потерять клиента в 2026: не ответить в течение часа.\nСамый быстрый способ удержать — AI ответит за 3 секунды.\n\nЧто для тебя важнее — скорость ответа или личный подход?",
+          "pk": "18064884035724647",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Da6BTXikQII",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784318297,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0MzQ3MDE1MjcwODg1MDE4NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Da6BTXikQII"
+      },
+      {
+        "id": "3942775469775093486_42773128424",
+        "pk": "3942775469775093486",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Я не пишу код руками. Я даже промпты не печатаю.\n\nГолосом диктую Claude Code задачу — он пишет, тестирует, деплоит.\n\nПять минут разговора → работающий MVP на Vercel.\n\nЭто Vibe-coding 2.0: голос заменяет клавиатуру.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Я не пишу код руками. Я даже промпты не печатаю.\n\nГолосом диктую Claude Code задачу — он пишет, тестирует, деплоит.\n\nПять минут разговора → работающий MVP на Vercel.\n\nЭто Vibe-coding 2.0: голос заменяет клавиатуру.",
+          "pk": "17869006080572841",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Da3jWZpEX7u",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784235484,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0Mjc3NTQ2OTc3NTA5MzQ4NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Da3jWZpEX7u"
+      },
+      {
+        "id": "3941782644287395930_42773128424",
+        "pk": "3941782644287395930",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEpyO3FjlDisZTsxpIP_qkC_8kqlCdjv5mc13cwCjlsPs5c25FtCEVNIIlUdudC1Eg&_nc_ohc=7y7cFknhP6EQ7kNvwFuDsHj&_nc_gid=pTe6V3cOE-FGl-HnMQqz4w&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQHyLb2GDx7g-FO-Xc5JrUSVz5kDX1Bv7autlBaIeIvZuQ&oe=6A849730&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Здесь буду писать про свою работу.\n\nСобираю сайты и AI-помощников для бизнеса через AI-инструменты. Клиенты — предприниматели, малый бизнес.\n\nРаньше делала на Tilda в команде. Сейчас — одна через Claude Code за 5 дней.\n\nНе потому что я супер-программист. Просто AI делает 90% работы. Я управляю задачей.\n\nЧто покажу здесь:\n· как выглядит vibecoding изнутри\n· реальные кейсы клиентов\n· инструменты, которые тестирую\n· ошибки, которые совершаю\n\nПогнали.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Здесь буду писать про свою работу.\n\nСобираю сайты и AI-помощников для бизнеса через AI-инструменты. Клиенты — предприниматели, малый бизнес.\n\nРаньше делала на Tilda в команде. Сейчас — одна через Claude Code за 5 дней.\n\nНе потому что я супер-программист. Просто AI делает 90% работы. Я управляю задачей.\n\nЧто покажу здесь:\n· как выглядит vibecoding изнутри\n· реальные кейсы клиентов\n· инструменты, которые тестирую\n· ошибки, которые совершаю\n\nПогнали.",
+          "pk": "17920715346182891",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Da0Bm42jNha",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1784117130,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJlNTIwYTA1NmNjZTQ4MDNiZDAzNDU2NDJhNTFiZTgyMzk0MTc4MjY0NDI4NzM5NTkzMCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Da0Bm42jNha"
+      }
+    ]
+  }
+}
