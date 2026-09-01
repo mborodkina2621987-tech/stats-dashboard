@@ -1,0 +1,84 @@
+{
+  "platform": "tiktok",
+  "handle": "mariaborodkina8",
+  "fetched_at": "2026-09-01T12:59:58.606174+00:00",
+  "profile": {
+    "success": true,
+    "credits_remaining": 22258,
+    "credits_charged": 1,
+    "user": {
+      "id": "7057085431858660357",
+      "shortId": "",
+      "uniqueId": "mariaborodkina8",
+      "nickname": "Маша",
+      "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7334254119315570708~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=3cd282c1&x-expires=1788436800&x-signature=88z%2FVjyyaJVXnbH4uObiYC4MsA8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7334254119315570708~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=6d6639fa&x-expires=1788436800&x-signature=zKcPjDZmTfOT%2Fseu%2FXxOAjriCQY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7334254119315570708~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=83c83b4c&x-expires=1788436800&x-signature=ZoFW8Mfc2Vkd8Sv8v%2FiNWvkYyw4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "signature": "Собираю бизнес с AI. Мой бот помощник: \nhttps://t.me/StudioBorodkinabot",
+      "createTime": 1643106016,
+      "verified": false,
+      "secUid": "MS4wLjABAAAAD3ZRRgb4gW66nd6qVwfV7SmErgjCHhQ05K4palbESReVAAkMA_3YZXg3iRDmvxq_",
+      "ftc": false,
+      "relation": 0,
+      "openFavorite": false,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+        "commerceUser": false
+      },
+      "duetSetting": 0,
+      "stitchSetting": 0,
+      "privateAccount": false,
+      "secret": false,
+      "isADVirtual": false,
+      "roomId": "",
+      "uniqueIdModifyTime": 0,
+      "ttSeller": false,
+      "downloadSetting": 0,
+      "profileTab": {
+        "showMusicTab": false,
+        "showQuestionTab": false,
+        "showPlayListTab": false
+      },
+      "followingVisibility": 1,
+      "recommendReason": "",
+      "nowInvitationCardUrl": "",
+      "nickNameModifyTime": 1643348559,
+      "isEmbedBanned": false,
+      "canExpPlaylist": true,
+      "profileEmbedPermission": 1,
+      "language": "ru",
+      "eventList": [],
+      "suggestAccountBind": false,
+      "isOrganization": 0,
+      "UserStoryStatus": 0,
+      "shortDramaCreator": {}
+    },
+    "stats": {
+      "followerCount": 42,
+      "followingCount": 23,
+      "heart": 577,
+      "heartCount": 577,
+      "videoCount": 43,
+      "diggCount": 0,
+      "friendCount": 9
+    },
+    "statsV2": {
+      "followerCount": "42",
+      "followingCount": "23",
+      "heart": "577",
+      "heartCount": "577",
+      "videoCount": "43",
+      "diggCount": "0",
+      "friendCount": "9"
+    },
+    "itemList": []
+  },
+  "posts": {
+    "success": true,
+    "credits_remaining": 22257,
+    "credits_charged": 1,
+    "max_cursor": null,
+    "has_more": false,
+    "aweme_list": []
+  }
+}
