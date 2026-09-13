@@ -4,9 +4,11 @@ accounts:
   - platform: instagram
     handle: marketplacecard
     brand: marketplacecard
+  # TikTok @marketplacecard was removed (404 since 2026-09-13); Maria's decision:
+  # track @frozenmenu instead. History stays in data/tiktok/marketplacecard/.
   - platform: tiktok
-    handle: marketplacecard
-    brand: marketplacecard
+    handle: frozenmenu
+    brand: frozenmenu
   - platform: threads
     handle: marketplacecard
     brand: marketplacecard
