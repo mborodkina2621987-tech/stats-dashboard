@@ -1,0 +1,1939 @@
+{
+  "platform": "threads",
+  "handle": "vibecoder.maria",
+  "fetched_at": "2026-09-25T13:11:53.731643+00:00",
+  "profile": {
+    "success": true,
+    "credits_remaining": 21015,
+    "credits_charged": 1,
+    "profile_pic_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFCLG5024T46-7gn57tX_Yu1k0VubB4fnrY5bTOnSKoVj6KAWXk2FOnR0G-2u7VswU&_nc_ohc=NEVBuT1KUxIQ7kNvwH2P_mc&_nc_gid=Izrt_qTm4ePVfggDbc5aRg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJcbsaYY9EMj6TeNhePMJgErcMcVPblWHxZJ6TsNbj1xA&oe=6ABC2E70&_nc_sid=10d13b",
+    "friendship_status": null,
+    "has_onboarded_to_text_post_app": true,
+    "pk": "42773128424",
+    "text_post_app_is_private": false,
+    "username": "vibecoder.maria",
+    "text_post_app_remove_mention_entrypoint": null,
+    "text_app_custom_feeds": null,
+    "gating": null,
+    "follower_count": 2,
+    "profile_context_facepile_users": null,
+    "text_post_app_public_views": null,
+    "hd_profile_pic_versions": [
+      {
+        "height": 320,
+        "url": "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFCLG5024T46-7gn57tX_Yu1k0VubB4fnrY5bTOnSKoVj6KAWXk2FOnR0G-2u7VswU&_nc_ohc=NEVBuT1KUxIQ7kNvwH2P_mc&_nc_gid=Izrt_qTm4ePVfggDbc5aRg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIWDJ1ejmMMfZZ2to5NBqZK-gvUc1UdJ78PP_8AsX1Lug&oe=6ABC2E70&_nc_sid=10d13b",
+        "width": 320
+      },
+      {
+        "height": 640,
+        "url": "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFCLG5024T46-7gn57tX_Yu1k0VubB4fnrY5bTOnSKoVj6KAWXk2FOnR0G-2u7VswU&_nc_ohc=NEVBuT1KUxIQ7kNvwH2P_mc&_nc_gid=Izrt_qTm4ePVfggDbc5aRg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKI32FEYvzF-ZWSbUAr6amHTYC3A0SzHgJSDenWikERfQ&oe=6ABC2E70&_nc_sid=10d13b",
+        "width": 640
+      }
+    ],
+    "is_verified": false,
+    "biography": "Собираю сайты · AI-агенты · автоматизацию\nЗа 5 дней вместо 3 месяцев\nmborodkina.ru",
+    "text_app_biography": {
+      "text_fragments": {
+        "fragments": [
+          {
+            "fragment_type": "plaintext",
+            "link_fragment": null,
+            "mention_fragment": null,
+            "plaintext": "Собираю сайты · AI-агенты · автоматизацию\nЗа 5 дней вместо 3 месяцев\nmborodkina.ru",
+            "inline_sticker_fragment": null,
+            "linkified_web_url": null,
+            "linkified_in_app_url": null,
+            "styling_info": null
+          }
+        ]
+      }
+    },
+    "full_name": "Мария • vibecoder",
+    "bio_links": [],
+    "profile_tags": {
+      "edges": [
+        {
+          "node": {
+            "display_name": "Business Threads",
+            "name": "businessthreads",
+            "id": "18277495162083069",
+            "is_community": false,
+            "tag_cluster_name": "BusinessThreads"
+          }
+        }
+      ]
+    },
+    "transparency_label": null,
+    "show_text_post_app_badge": true,
+    "platform_podcast_info": null,
+    "platform_podcast_episode_info": null,
+    "id": "42773128424"
+  },
+  "posts": {
+    "success": true,
+    "credits_remaining": 21014,
+    "credits_charged": 1,
+    "posts": [
+      {
+        "id": "3990841316032142818_42773128424",
+        "pk": "3990841316032142818",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Marketing: Недельный лимит Claude кончился в четверг. 6 агентов стояли почти двое суток. Причина — не «много работали», а как: циклы claude -p по расписанию, субагенты на каждую мелочь, длинные чаты без очистки, все MCP включены сразу.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 15,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Marketing: Недельный лимит Claude кончился в четверг. 6 агентов стояли почти двое суток. Причина — не «много работали», а как: циклы claude -p по расписанию, субагенты на каждую мелочь, длинные чаты без очистки, все MCP включены сразу.",
+          "pk": "18626851807052062",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdiUQhVDF3i",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789965379,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk5MDg0MTMxNjAzMjE0MjgxOCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdiUQhVDF3i"
+      },
+      {
+        "id": "3986288071280460693_42773128424",
+        "pk": "3986288071280460693",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "У моего агента 5 md-файлов. За утро — с 61 КБ до 30, ничего не потеряв.\n\nДва дня активного проекта — и файлы выросли на 36 КБ. Журнал решений — 21 КБ хронологии, рабочий контекст — 13 КБ. Всё это висело в контексте агента на каждом ходе.\n\nЧто лежит в каждом файле и что в контекст не попадает — ниже ↓",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 2,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "У моего агента 5 md-файлов. За утро — с 61 КБ до 30, ничего не потеряв.\n\nДва дня активного проекта — и файлы выросли на 36 КБ. Журнал решений — 21 КБ хронологии, рабочий контекст — 13 КБ. Всё это висело в контексте агента на каждом ходе.\n\nЧто лежит в каждом файле и что в контекст не попадает — ниже ↓",
+          "pk": "18028570868890113",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdSI-FtDIOV",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789422590,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4NjI4ODA3MTI4MDQ2MDY5MyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdSI-FtDIOV"
+      },
+      {
+        "id": "3985875076629233436_42773128424",
+        "pk": "3985875076629233436",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": []
+          },
+          "reshare_count": null,
+          "direct_reply_count": 2,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": null,
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdQrEOdkX8c",
+        "image_versions2": {
+          "candidates": [
+            {
+              "height": 400,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIpqk_QP2MctspQTWQDDkf8n33Hh76E7qXhR1lyIhb5PQ&oe=6ABC4BF9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQL8vdFvQX5Ow9lFATRyjn8_2SxxfU-6aEQJvOT5iArckQ&oe=6ABC4BF9",
+              "width": 480
+            },
+            {
+              "height": 200,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=dst-jpg_e15_s320x320_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIZkqAobDUSGgVH8zDRieTNAkJYct18WwS5yUiFLIv91w&oe=6ABC4BF9",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=dst-jpg_e15_s240x240_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJEU_zVH-rKlUYWk4qHX6Az13lh_zIvTljtjwqHvVoh7g&oe=6ABC4BF9",
+              "width": 240
+            },
+            {
+              "height": 400,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s400x400_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIohVqDWGirQphLxZBkprFJgSZTHWyZI9tEKr015h7yew&oe=6ABC4BF9",
+              "width": 400
+            },
+            {
+              "height": 400,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s400x400_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIohVqDWGirQphLxZBkprFJgSZTHWyZI9tEKr015h7yew&oe=6ABC4BF9",
+              "width": 400
+            },
+            {
+              "height": 400,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s400x400_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIohVqDWGirQphLxZBkprFJgSZTHWyZI9tEKr015h7yew&oe=6ABC4BF9",
+              "width": 400
+            },
+            {
+              "height": 400,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s400x400_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQIohVqDWGirQphLxZBkprFJgSZTHWyZI9tEKr015h7yew&oe=6ABC4BF9",
+              "width": 400
+            },
+            {
+              "height": 320,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s320x320_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLPGQ4Bd2gpz0k66-kFXejobHAO5TFXWasC5MZnplesTQ&oe=6ABC4BF9",
+              "width": 320
+            },
+            {
+              "height": 240,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s240x240_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQKujxLrofOe__n4dd4EgdJZIzwPCB6jyx1RZ58-0aNZiQ&oe=6ABC4BF9",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/809477376_4498583820457325_2632648205228541553_n.jpg?stp=c120.0.400.400a_dst-jpg_e15_s150x150_tt6&_nc_cat=110&ig_cache_key=Mzk4NTg3NTA3NjYyOTIzMzQzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=27eg8k43-fsQ7kNvwECJK1n&_nc_oc=AdrQ_pj7EgnMU-Kyh7hXwkAyFs7N427ZeCYuabDwx7jEAtDMKnqOvWsk1YZwo2qAxW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLgV46uoJ_coDBiAsi6YJLbv8PczVuqed2vLR5fWpXJwQ&oe=6ABC4BF9",
+              "width": 150
+            }
+          ]
+        },
+        "original_height": 800,
+        "original_width": 1280,
+        "accessibility_caption": null,
+        "video_versions": [
+          {
+            "type": 101,
+            "url": "https://scontent-lax7-1.cdninstagram.com/o1/v/t16/f2/m84/AQP1360nHwSW8_ad1P9wE8NE-BPXevCilpWT9yftiU8lIKrYIGA-22yYo-LMk4BN1l9W3RGuGA2vCPxEM_--Tf_arDAKaNzMEE309-g.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_ohc=mdSJGMk2C8UQ7kNvwEqiU2g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMTUyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODczODE1Mzk0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ea2011687ce1f6ef&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yODQ1NzkzN0QxRDFENTQ3Q0Q4Mjc2QjQzMzg3OTM5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0qKY-ZWYoUAVAigCQzMsF0AzCHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQJZxKFODR5rodKb29KdNt2HXnf2p9c1iYR53NZQeba3sQ&oe=6AB84F3F"
+          },
+          {
+            "type": 102,
+            "url": "https://scontent-lax7-1.cdninstagram.com/o1/v/t16/f2/m84/AQP1360nHwSW8_ad1P9wE8NE-BPXevCilpWT9yftiU8lIKrYIGA-22yYo-LMk4BN1l9W3RGuGA2vCPxEM_--Tf_arDAKaNzMEE309-g.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_ohc=mdSJGMk2C8UQ7kNvwEqiU2g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMTUyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODczODE1Mzk0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ea2011687ce1f6ef&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yODQ1NzkzN0QxRDFENTQ3Q0Q4Mjc2QjQzMzg3OTM5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0qKY-ZWYoUAVAigCQzMsF0AzCHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQJZxKFODR5rodKb29KdNt2HXnf2p9c1iYR53NZQeba3sQ&oe=6AB84F3F"
+          },
+          {
+            "type": 103,
+            "url": "https://scontent-lax7-1.cdninstagram.com/o1/v/t16/f2/m84/AQP1360nHwSW8_ad1P9wE8NE-BPXevCilpWT9yftiU8lIKrYIGA-22yYo-LMk4BN1l9W3RGuGA2vCPxEM_--Tf_arDAKaNzMEE309-g.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_ohc=mdSJGMk2C8UQ7kNvwEqiU2g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMTUyLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODczODE1Mzk0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ea2011687ce1f6ef&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yODQ1NzkzN0QxRDFENTQ3Q0Q4Mjc2QjQzMzg3OTM5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0qKY-ZWYoUAVAigCQzMsF0AzCHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQJZxKFODR5rodKb29KdNt2HXnf2p9c1iYR53NZQeba3sQ&oe=6AB84F3F"
+          }
+        ],
+        "has_audio": false,
+        "media_type": 2,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789373425,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4NTg3NTA3NjYyOTIzMzQzNiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdQrEOdkX8c"
+      },
+      {
+        "id": "3985462400098859022_42773128424",
+        "pk": "3985462400098859022",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Мой ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " весил 54 КБ. Один промпт — и осталось 12. Ничего не потеряла. ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " и правила агента растут месяцами: каждая ошибка — новое правило, каждое правило — с историей «почему». Агент читает всё это в каждом ходе и половину тащит зря. Промпт, который чинит ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " за раз — ниже ↓ Прочитай ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "CLAUDE.md",
+                  "uri": "http://CLAUDE.md"
+                },
+                "mention_fragment": null,
+                "plaintext": "CLAUDE.md",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " и все файлы, которые он подключает (@include, rules/, memory). Проведи аудит инструкций и выдай отчёт: \n\n1. Противоречия — правила, которые спорят друг с другом.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 4,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Мой CLAUDE.md весил 54 КБ. Один промпт — и осталось 12. Ничего не потеряла. CLAUDE.md и правила агента растут месяцами: каждая ошибка — новое правило, каждое правило — с историей «почему». Агент читает всё это в каждом ходе и половину тащит зря. Промпт, который чинит CLAUDE.md за раз — ниже ↓ Прочитай CLAUDE.md и все файлы, которые он подключает (@include, rules/, memory). Проведи аудит инструкций и выдай отчёт: \n\n1. Противоречия — правила, которые спорят друг с другом.",
+          "pk": "18020571086867333",
+          "has_translation": true
+        },
+        "caption_is_edited": true,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdPNO_fkXgO",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789324162,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4NTQ2MjQwMDA5ODg1OTAyMiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdPNO_fkXgO"
+      },
+      {
+        "id": "3984601929808112396_42773128424",
+        "pk": "3984601929808112396",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Твой скилл для агента реально помогает — или его надо дорабатывать? Раньше это узнавалось только в бою. \n\nНа этой неделе в Claude Code появился тест-стенд для скиллов. Пишешь тестовые запросы, прогоняешь их со скиллом и без — и видишь разницу. Плюс ловушки: запрос рядом по теме, на который скилл срабатывать не должен.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 3,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Твой скилл для агента реально помогает — или его надо дорабатывать? Раньше это узнавалось только в бою. \n\nНа этой неделе в Claude Code появился тест-стенд для скиллов. Пишешь тестовые запросы, прогоняешь их со скиллом и без — и видишь разницу. Плюс ловушки: запрос рядом по теме, на который скилл срабатывать не должен.",
+          "pk": "17888257047682140",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdMJlgFjGsM",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789221586,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4NDYwMTkyOTgwODExMjM5NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdMJlgFjGsM"
+      },
+      {
+        "id": "3982987431611816220_42773128424",
+        "pk": "3982987431611816220",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "5 ошибок в промптинге Claude 4.7, которые роняют vibe-coding.\n\nРазобрала по-русски то, что Anthropic пишет в docs, плюс что переживают все кто ставит Claude Code первый раз.\n\nПять пунктов ниже — по каждому что не так и как чинить.\n\nСохраняй.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 7,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "5 ошибок в промптинге Claude 4.7, которые роняют vibe-coding.\n\nРазобрала по-русски то, что Anthropic пишет в docs, плюс что переживают все кто ставит Claude Code первый раз.\n\nПять пунктов ниже — по каждому что не так и как чинить.\n\nСохраняй.",
+          "pk": "18483705250128308",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DdGafdeEVkc",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1789029123,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4Mjk4NzQzMTYxMTgxNjIyMCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DdGafdeEVkc"
+      },
+      {
+        "id": "3981060184541549252_42773128424",
+        "pk": "3981060184541549252",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": []
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": null,
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Dc_kSUxDNLE",
+        "image_versions2": {
+          "candidates": [
+            {
+              "height": 356,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQK14xvMVSSFOv4iuKf8l9qR5XBYRFkED21j9DqnpgurpQ&oe=6ABC5524",
+              "width": 640
+            },
+            {
+              "height": 267,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLZIE97Bxb-Jx8Blsf29HsdgzOSIb-5LkkHLWYvZxl9iQ&oe=6ABC5524",
+              "width": 480
+            },
+            {
+              "height": 178,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=dst-jpg_e15_s320x320_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLG-lV3ZyDJPmYru-M_81bIUytF-bz9NGjtlnND8QgXEQ&oe=6ABC5524",
+              "width": 320
+            },
+            {
+              "height": 134,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=dst-jpg_e15_s240x240_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJ7-wpB9pKTmQ7zf6YTSRRrqFMQuM2qCGmYOksup2bQgA&oe=6ABC5524",
+              "width": 240
+            },
+            {
+              "height": 356,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s355x356_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQK5AuSuUjdLqAb97pMiBfn9jw1fCL0zzTb0-lQ_LZ4gJA&oe=6ABC5524",
+              "width": 356
+            },
+            {
+              "height": 356,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s355x356_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQK5AuSuUjdLqAb97pMiBfn9jw1fCL0zzTb0-lQ_LZ4gJA&oe=6ABC5524",
+              "width": 356
+            },
+            {
+              "height": 356,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s355x356_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQK5AuSuUjdLqAb97pMiBfn9jw1fCL0zzTb0-lQ_LZ4gJA&oe=6ABC5524",
+              "width": 356
+            },
+            {
+              "height": 356,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s355x356_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQK5AuSuUjdLqAb97pMiBfn9jw1fCL0zzTb0-lQ_LZ4gJA&oe=6ABC5524",
+              "width": 356
+            },
+            {
+              "height": 320,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s320x320_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLxldPn9eFWfA98JRSzOBTZFFshsJwQJtwfIcc1CsOw9g&oe=6ABC5524",
+              "width": 320
+            },
+            {
+              "height": 240,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s240x240_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQI1tvikJdhNMul3wUklJr3otMq7EpN7o7Maza1WnMdWCA&oe=6ABC5524",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/799958412_1376459110783043_4071263026088759609_n.jpg?stp=c142.0.356.356a_dst-jpg_e15_s150x150_tt6&_nc_cat=102&ig_cache_key=Mzk4MTA2MDE4NDU0MTU0OTI1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qzvqa2A0XhIQ7kNvwGc423M&_nc_oc=AdoxTLVh9PmxRVC0xyYSRD7BX2EWx4HKWnYTfpF3b5HjccpUTN3drun2ku69HAyZEu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQI9byqcarH86GhW_7ya3NXMzhtrm0VF89BcqzGFFE90jw&oe=6ABC5524",
+              "width": 150
+            }
+          ]
+        },
+        "original_height": 1068,
+        "original_width": 1920,
+        "accessibility_caption": null,
+        "video_versions": [
+          {
+            "type": 101,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQNcOhLu2X-q1Tm1n5MfhCLcrCRoXQw-ZIQMZrU__aHpCDnL5XQ3Tdt94pHY6kmJRq33KyhWamlbNu1Jhy6oYYJkF0uPq_oEuXwOwoU.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=1Y75WDy3HzIQ7kNvwGWkIh6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODYwNDk3NjE0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=294cc82c622b347c&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9CNjQwQTY1NkY2RjQwNjBENEVCN0U4M0VBMTg5RUI4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCNDUyNzgxNEI0MzUyQjhCQ0YwNkNENTg2OEM5QUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS0Nu208qgQBUCKAJDMywXQDTMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQIz98J-JlvnejEYcCOZvgvmNkfC5tU8wTMHj05AT6U33Q&oe=6AB8494A"
+          },
+          {
+            "type": 102,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQNcOhLu2X-q1Tm1n5MfhCLcrCRoXQw-ZIQMZrU__aHpCDnL5XQ3Tdt94pHY6kmJRq33KyhWamlbNu1Jhy6oYYJkF0uPq_oEuXwOwoU.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=1Y75WDy3HzIQ7kNvwGWkIh6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODYwNDk3NjE0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=294cc82c622b347c&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9CNjQwQTY1NkY2RjQwNjBENEVCN0U4M0VBMTg5RUI4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCNDUyNzgxNEI0MzUyQjhCQ0YwNkNENTg2OEM5QUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS0Nu208qgQBUCKAJDMywXQDTMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQIz98J-JlvnejEYcCOZvgvmNkfC5tU8wTMHj05AT6U33Q&oe=6AB8494A"
+          },
+          {
+            "type": 103,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQNcOhLu2X-q1Tm1n5MfhCLcrCRoXQw-ZIQMZrU__aHpCDnL5XQ3Tdt94pHY6kmJRq33KyhWamlbNu1Jhy6oYYJkF0uPq_oEuXwOwoU.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=1Y75WDy3HzIQ7kNvwGWkIh6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODYwNDk3NjE0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoxNywidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=294cc82c622b347c&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9CNjQwQTY1NkY2RjQwNjBENEVCN0U4M0VBMTg5RUI4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JCNDUyNzgxNEI0MzUyQjhCQ0YwNkNENTg2OEM5QUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS0Nu208qgQBUCKAJDMywXQDTMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQIz98J-JlvnejEYcCOZvgvmNkfC5tU8wTMHj05AT6U33Q&oe=6AB8494A"
+          }
+        ],
+        "has_audio": true,
+        "media_type": 2,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1788799412,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk4MTA2MDE4NDU0MTU0OTI1MiJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Dc_kSUxDNLE"
+      },
+      {
+        "id": "3979376286225228303_42773128424",
+        "pk": "3979376286225228303",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": []
+          },
+          "reshare_count": null,
+          "direct_reply_count": 1,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": null,
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Dc5laYQEWIP",
+        "image_versions2": {
+          "candidates": [
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJvBx32zV8cTwaBu92fAWeFFpYzhaOpnIg3wvGYCJv_6w&oe=6ABC47FA",
+              "width": 640
+            },
+            {
+              "height": 270,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLHl0TWLJfBzcuK5Yiq7zfdabgTfz6M_gxE0YqMR5lTYA&oe=6ABC47FA",
+              "width": 480
+            },
+            {
+              "height": 180,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=dst-jpg_e15_s320x320_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQKDyc5Vt4wHLfOB_Hw8oahIpoZ2U4gsMNximTqXIRAmJA&oe=6ABC47FA",
+              "width": 320
+            },
+            {
+              "height": 135,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=dst-jpg_e15_s240x240_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJ2d2MoV4PPv2Kl0Hm5R0bFvrAr4YTWPpHkzjJap5ahAg&oe=6ABC47FA",
+              "width": 240
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJVpHcu_pkqlkR74mXzju_EZut_yCBSYoRYedKCnePfWw&oe=6ABC47FA",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJVpHcu_pkqlkR74mXzju_EZut_yCBSYoRYedKCnePfWw&oe=6ABC47FA",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJVpHcu_pkqlkR74mXzju_EZut_yCBSYoRYedKCnePfWw&oe=6ABC47FA",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJVpHcu_pkqlkR74mXzju_EZut_yCBSYoRYedKCnePfWw&oe=6ABC47FA",
+              "width": 360
+            },
+            {
+              "height": 320,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s320x320_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLCf89QytAwWlS7IuuTVp5GJzXf6AKgPE8ddS8ChSXtFg&oe=6ABC47FA",
+              "width": 320
+            },
+            {
+              "height": 240,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s240x240_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLHV_Hy1K7cXbtDqRWjKHk2AZyXu4CN2hyKPpqKDVAXmg&oe=6ABC47FA",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/796940770_1048418837810679_1697402967886394772_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s150x150_tt6&_nc_cat=104&ig_cache_key=Mzk3OTM3NjI4NjIyNTIyODMwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VWKExdHBGvsQ7kNvwE3R6vq&_nc_oc=AdrqulSFysfPktqY2PTHkVjVd08rREkQj8tblhf6E099Tq2dwrXe1CbnCoTKm9LFtNA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLnvKxWR8n19TeRx3wk6VditsXg56LCD1pEExZkES3BWg&oe=6ABC47FA",
+              "width": 150
+            }
+          ]
+        },
+        "original_height": 1080,
+        "original_width": 1920,
+        "accessibility_caption": null,
+        "video_versions": [
+          {
+            "type": 101,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQP_YoZ1F9NqlLCVidp0V63qmDTKVYYiPbCtEO6MMT1dC-05xuvz5U54fc-kRaXBLMJ1P60v6At42oWSzOgQaJW6K94Fs-Rxm0fyws8.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=Dio5ERWMmdYQ7kNvwGeI9v_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODU1NjQyMjA0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f264b835359186c5&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wOTQwNTBGRkIxREQyMEQ4MDVENDEwOUI5Qzg5MjlCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg0NEY5QkNGMjQyMjU1OUE5MUIzM0NBNDAzMUIwQTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSg97usa6gQBUCKAJDMywXQDIAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQI1L8DMRk_jsSpE6tXqhXfcWgZcXeiI2mffEk5JuJLx6Q&oe=6AB8603F"
+          },
+          {
+            "type": 102,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQP_YoZ1F9NqlLCVidp0V63qmDTKVYYiPbCtEO6MMT1dC-05xuvz5U54fc-kRaXBLMJ1P60v6At42oWSzOgQaJW6K94Fs-Rxm0fyws8.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=Dio5ERWMmdYQ7kNvwGeI9v_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODU1NjQyMjA0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f264b835359186c5&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wOTQwNTBGRkIxREQyMEQ4MDVENDEwOUI5Qzg5MjlCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg0NEY5QkNGMjQyMjU1OUE5MUIzM0NBNDAzMUIwQTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSg97usa6gQBUCKAJDMywXQDIAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQI1L8DMRk_jsSpE6tXqhXfcWgZcXeiI2mffEk5JuJLx6Q&oe=6AB8603F"
+          },
+          {
+            "type": 103,
+            "url": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m84/AQP_YoZ1F9NqlLCVidp0V63qmDTKVYYiPbCtEO6MMT1dC-05xuvz5U54fc-kRaXBLMJ1P60v6At42oWSzOgQaJW6K94Fs-Rxm0fyws8.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=Dio5ERWMmdYQ7kNvwGeI9v_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODU1NjQyMjA0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f264b835359186c5&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wOTQwNTBGRkIxREQyMEQ4MDVENDEwOUI5Qzg5MjlCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg0NEY5QkNGMjQyMjU1OUE5MUIzM0NBNDAzMUIwQTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSg97usa6gQBUCKAJDMywXQDIAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQI1L8DMRk_jsSpE6tXqhXfcWgZcXeiI2mffEk5JuJLx6Q&oe=6AB8603F"
+          }
+        ],
+        "has_audio": true,
+        "media_type": 2,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1788598646,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk3OTM3NjI4NjIyNTIyODMwMyJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Dc5laYQEWIP"
+      },
+      {
+        "id": "3978711401799401745_42773128424",
+        "pk": "3978711401799401745",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": []
+          },
+          "reshare_count": null,
+          "direct_reply_count": 12,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": null,
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Dc3OPCYDMER",
+        "image_versions2": {
+          "candidates": [
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQLoz-fNTDtxdeG23FJ---NTFcfvZEWkqVksGZUBM51hrA&oe=6ABC2C95",
+              "width": 640
+            },
+            {
+              "height": 270,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQKGaYyKWs_wPMHD907u7WBB1qBxlEwUw52zR00XFvvl8Q&oe=6ABC2C95",
+              "width": 480
+            },
+            {
+              "height": 180,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=dst-jpg_e15_s320x320_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJQjCnDR8ccugdbr40Jc_cIVH4k6qKbKvGoKL2Ikp8dlQ&oe=6ABC2C95",
+              "width": 320
+            },
+            {
+              "height": 135,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=dst-jpg_e15_s240x240_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJJWjVPOJ8_MtmYmDD8As2_gqFcH8MD5fQPrHynGjyhoA&oe=6ABC2C95",
+              "width": 240
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJOu5OV1nabofmBwCBba0N-M2WgiO-u5ckxv5Eid0BABg&oe=6ABC2C95",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJOu5OV1nabofmBwCBba0N-M2WgiO-u5ckxv5Eid0BABg&oe=6ABC2C95",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJOu5OV1nabofmBwCBba0N-M2WgiO-u5ckxv5Eid0BABg&oe=6ABC2C95",
+              "width": 360
+            },
+            {
+              "height": 360,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s360x360_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJOu5OV1nabofmBwCBba0N-M2WgiO-u5ckxv5Eid0BABg&oe=6ABC2C95",
+              "width": 360
+            },
+            {
+              "height": 320,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s320x320_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJuq0uUN2yU-ZzdG15GskjkBPlakF71XoX5ODxKXNZkaQ&oe=6ABC2C95",
+              "width": 320
+            },
+            {
+              "height": 240,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s240x240_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQJNDq4MULv7Iyz3uFhAxhSM2b6QgnsrRSN2UQ7hj5R4Mg&oe=6ABC2C95",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/794585035_2138149517113498_7656804894392893645_n.jpg?stp=c140.0.360.360a_dst-jpg_e15_s150x150_tt6&_nc_cat=110&ig_cache_key=Mzk3ODcxMTQwMTc5OTQwMTc0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_niEBQsyARoQ7kNvwHeloxT&_nc_oc=AdpIFSDX1tWL8jjl1VWMDjYh0ZAWgwCOfEjtgOGjHwNYdaJ5POz3HZuJABruxla8zUY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&oh=00_AQKsaYnd6IDrOZpp6OUVlNFTguTG76IGsQ-MVBxc5vs1FQ&oe=6ABC2C95",
+              "width": 150
+            }
+          ]
+        },
+        "original_height": 1080,
+        "original_width": 1920,
+        "accessibility_caption": null,
+        "video_versions": [
+          {
+            "type": 101,
+            "url": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m84/AQP6MoKVN88Mp1ydMt3UW9HqNjmbi8gJxvXJGUNRzxtxKarX68V17qwj-ugPO4_3a_Qt7j0aeVHVR8IHXvN-ki8PXEFxGwfQDLxLDZM.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=iSBJuMT-xN8Q7kNvwGTwjjw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODUzNjIzMDI0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1a2d43dc539e1a98&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yMTRBRTY3OTMxMUFDNzBEOTVDODQ0NDE3NEM2REJCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0tXcutGioEAVAigCQzMsF0BGzMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQKvATRSzI8h7se1jcRPEAcTBkmGLAFSoW4nr-ukMTlbjQ&oe=6AB85176"
+          },
+          {
+            "type": 102,
+            "url": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m84/AQP6MoKVN88Mp1ydMt3UW9HqNjmbi8gJxvXJGUNRzxtxKarX68V17qwj-ugPO4_3a_Qt7j0aeVHVR8IHXvN-ki8PXEFxGwfQDLxLDZM.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=iSBJuMT-xN8Q7kNvwGTwjjw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODUzNjIzMDI0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1a2d43dc539e1a98&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yMTRBRTY3OTMxMUFDNzBEOTVDODQ0NDE3NEM2REJCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0tXcutGioEAVAigCQzMsF0BGzMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQKvATRSzI8h7se1jcRPEAcTBkmGLAFSoW4nr-ukMTlbjQ&oe=6AB85176"
+          },
+          {
+            "type": 103,
+            "url": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m84/AQP6MoKVN88Mp1ydMt3UW9HqNjmbi8gJxvXJGUNRzxtxKarX68V17qwj-ugPO4_3a_Qt7j0aeVHVR8IHXvN-ki8PXEFxGwfQDLxLDZM.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=iSBJuMT-xN8Q7kNvwGTwjjw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODUzNjIzMDI0MjQ0MjUsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1a2d43dc539e1a98&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8yMTRBRTY3OTMxMUFDNzBEOTVDODQ0NDE3NEM2REJCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm0tXcutGioEAVAigCQzMsF0BGzMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqB2XongEA&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQKvATRSzI8h7se1jcRPEAcTBkmGLAFSoW4nr-ukMTlbjQ&oe=6AB85176"
+          }
+        ],
+        "has_audio": false,
+        "media_type": 2,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1788519736,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk3ODcxMTQwMTc5OTQwMTc0NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Dc3OPCYDMER"
+      },
+      {
+        "id": "3971032634344202834_42773128424",
+        "pk": "3971032634344202834",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Инструмент, которым часто пользуются внутри Anthropic.\n\nВсе хватаются за него, чтобы понимать чужие сложные темы. Я использую иначе — прогоняю через него свои же посты и статьи. Смотрю, где Клод спотыкается на моём тексте — там я как автор пропускаю очевидное.\n\nМой процесс — в следующем посте ↓",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 2,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Инструмент, которым часто пользуются внутри Anthropic.\n\nВсе хватаются за него, чтобы понимать чужие сложные темы. Я использую иначе — прогоняю через него свои же посты и статьи. Смотрю, где Клод спотыкается на моём тексте — там я как автор пропускаю очевидное.\n\nМой процесс — в следующем посте ↓",
+          "pk": "18418341931151929",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "Dcb8SQ5keJS",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1787604000,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk3MTAzMjYzNDM0NDIwMjgzNCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/Dcb8SQ5keJS"
+      },
+      {
+        "id": "3970310255825501645_42773128424",
+        "pk": "3970310255825501645",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "6 AI-скиллов, без которых предпринимателю в 2026 не выжить. \nНе программисту — тебе, если ты ведёшь бизнес.\n\n Скилл 1. Выбирать модель под задачу. Claude лучше держит длинные тексты и рассуждения, GPT лидирует в картинках и коде, DeepSeek — самый дешёвый вариант для массовых задач. YandexGPT, когда данные не должны уходить из России. Одна модель под всё — деньги на ветер. \n\nСкилл 2. Кормить AI своими данными. Не набирать промпт «представь что ты…» в 5 абзацев.",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 3,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "6 AI-скиллов, без которых предпринимателю в 2026 не выжить. \nНе программисту — тебе, если ты ведёшь бизнес.\n\n Скилл 1. Выбирать модель под задачу. Claude лучше держит длинные тексты и рассуждения, GPT лидирует в картинках и коде, DeepSeek — самый дешёвый вариант для массовых задач. YandexGPT, когда данные не должны уходить из России. Одна модель под всё — деньги на ветер. \n\nСкилл 2. Кормить AI своими данными. Не набирать промпт «представь что ты…» в 5 абзацев.",
+          "pk": "18010923329952527",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DcZYCRekb3N",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 3,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1787517886,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk3MDMxMDI1NTgyNTUwMTY0NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DcZYCRekb3N"
+      },
+      {
+        "id": "3968517652851271084_42773128424",
+        "pk": "3968517652851271084",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "ai.mborodkina.ru",
+            "favicon_url": "https://external-lax7-1.xx.fbcdn.net/emg1/v/t13/2905347198091776909?url=https%3A%2F%2Fai.mborodkina.ru%2Ffavicon.ico&utld=mborodkina.ru&_nc_sid=1d65fc&_nc_ht=external-lax7-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAYm69i3OCa491V0Ri1SDYqhMj2ad8MlrGR8ciuoKg2Lf&oe=6AB85D4B",
+            "image_url": "https://external-lax7-1.xx.fbcdn.net/emg1/v/t13/15495629354529370737?url=https%3A%2F%2Fai.mborodkina.ru%2Fog-image.png&utld=mborodkina.ru&_nc_sid=1d65fc&_nc_ht=external-lax7-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAcvWcILLv9TzDR84CCCm2yia6JWbOdpsssL1wVR9MUhQ&oe=6AB86971",
+            "title": "Нейросети для работы — обзоры и практика",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Fai.mborodkina.ru%2F&e=AUBpXAPgWOhP6JiuXN8o5VO87Kgr_v-mgIspAtdeg7Dl1LQCx0t1h2EpZZi3owPt7XY9brA0D8Z7TYIuaPOctavkkBAAVYc6YPcRPzne4XydkbmihG4Ozzo6Bnk"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Обещала вчера показать «до/после» — прогнала весь сайт ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "ai.mborodkina.ru",
+                  "uri": "http://ai.mborodkina.ru"
+                },
+                "mention_fragment": null,
+                "plaintext": "ai.mborodkina.ru",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": " через свой скилл /ru-humanize. \n\nИтог: 267 паттернов машинного письма в 60 статьях. Даже я триггерю собственные правила. \n\nТоп-3 самых частых: \n– 75% — ложная точность (диапазоны без основания) \n– 2% — магия тройки («3 причины», а реально 2 или 5) \n– 2% — разгоны «Важно:» и клише финалов 5 живых примеров с моего сайта:",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 8,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Обещала вчера показать «до/после» — прогнала весь сайт ai.mborodkina.ru через свой скилл /ru-humanize. \n\nИтог: 267 паттернов машинного письма в 60 статьях. Даже я триггерю собственные правила. \n\nТоп-3 самых частых: \n– 75% — ложная точность (диапазоны без основания) \n– 2% — магия тройки («3 причины», а реально 2 или 5) \n– 2% — разгоны «Важно:» и клише финалов 5 живых примеров с моего сайта:",
+          "pk": "18130711585642109",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DcTAcd3ESWs",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1787304191,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk2ODUxNzY1Mjg1MTI3MTA4NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DcTAcd3ESWs"
+      },
+      {
+        "id": "3967968789014528295_42773128424",
+        "pk": "3967968789014528295",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "ai.mborodkina.ru",
+            "favicon_url": "https://external-lax7-1.xx.fbcdn.net/emg1/v/t13/2905347198091776909?url=https%3A%2F%2Fai.mborodkina.ru%2Ffavicon.ico&utld=mborodkina.ru&_nc_sid=1d65fc&_nc_ht=external-lax7-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAYm69i3OCa491V0Ri1SDYqhMj2ad8MlrGR8ciuoKg2Lf&oe=6AB85D4B",
+            "image_url": null,
+            "title": "/ru-humanize — скилл для правки машинного текста",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Fai.mborodkina.ru%2Fru-humanize&e=AUDeN4oSlBMWbP15Q6_NrzLKhrhrW8xXKOMy6DW04JrT1ZSwuxUZ3syiOw-7LUyb_yzHtgEr7bfL2F-Kok-VsUXzV0_a-vkGCPZk6gxoRFmwwwZsoGqXIsQvWD4"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Выложила скилл, который убирает 9 самых типичных признаков машинного текста. Забирай бесплатно на моём сайте ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "ai.mborodkina.ru/ru-hu…",
+                  "uri": "http://ai.mborodkina.ru/ru-humanize"
+                },
+                "mention_fragment": null,
+                "plaintext": "ai.mborodkina.ru/ru-humanize",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": ". \n\nЯ занимаюсь AI каждый день — пишу тексты, разбираюсь как модели пишут. И вижу текст, написанный ботом, с первой строки.\n\n Собрала список — 9 фраз, по которым это заметно. Скилл прогоняет весь этот список и правит текст автоматически. \n\nВот эти 9 признаков — так пишет бот, а живой человек почти никогда:",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": 2,
+          "direct_reply_count": 6,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Выложила скилл, который убирает 9 самых типичных признаков машинного текста. Забирай бесплатно на моём сайте ai.mborodkina.ru/ru-humanize. \n\nЯ занимаюсь AI каждый день — пишу тексты, разбираюсь как модели пишут. И вижу текст, написанный ботом, с первой строки.\n\n Собрала список — 9 фраз, по которым это заметно. Скилл прогоняет весь этот список и правит текст автоматически. \n\nВот эти 9 признаков — так пишет бот, а живой человек почти никогда:",
+          "pk": "17976243675120355",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DcRDpclDEEn",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 6,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1787238762,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk2Nzk2ODc4OTAxNDUyODI5NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DcRDpclDEEn"
+      },
+      {
+        "id": "3967038346375205188_42773128424",
+        "pk": "3967038346375205188",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": {
+            "display_url": "ai.mborodkina.ru",
+            "favicon_url": "https://external-lax7-1.xx.fbcdn.net/emg1/v/t13/2905347198091776909?url=https%3A%2F%2Fai.mborodkina.ru%2Ffavicon.ico&utld=mborodkina.ru&_nc_sid=1d65fc&_nc_ht=external-lax7-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAYm69i3OCa491V0Ri1SDYqhMj2ad8MlrGR8ciuoKg2Lf&oe=6AB85D4B",
+            "image_url": null,
+            "title": "Кейсы: что мы делаем с AI",
+            "url": "https://l.threads.com/?u=http%3A%2F%2Fai.mborodkina.ru%2Fcases&e=AUDArOI10iwQ2OtIslJlc2LYsRAMw2O_BP4G_14qKgE30Ilr0TTfIhzz9hqC2yMGxNLpOa3sLmecJasLH-Dv3QxwyfzMoqTvf27OvvSZCeQ-HvhpOH6BsFcetwc"
+          },
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Расшифровала 75 лекций (~140 часов аудио) за один вечер. Курс истории искусств от Египта до Русского авангарда.\n\nРучная альтернатива — 4 месяца работы. Фрилансер — 4-6 недель.\n\nНа каждую лекцию — 2 файла: с таймингами и plain. Дальше из них делаем конспекты, квизы, поиск, RAG-чат по курсу.\n\nПолный кейс с pipeline и точностью на русском — ",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "link",
+                "link_fragment": {
+                  "display_text": "ai.mborodkina.ru/cases",
+                  "uri": "http://ai.mborodkina.ru/cases"
+                },
+                "mention_fragment": null,
+                "plaintext": "ai.mborodkina.ru/cases",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              },
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "\n\nУ кого сейчас архивы лекций / интервью / записей звонков лежат?",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 0,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Расшифровала 75 лекций (~140 часов аудио) за один вечер. Курс истории искусств от Египта до Русского авангарда.\n\nРучная альтернатива — 4 месяца работы. Фрилансер — 4-6 недель.\n\nНа каждую лекцию — 2 файла: с таймингами и plain. Дальше из них делаем конспекты, квизы, поиск, RAG-чат по курсу.\n\nПолный кейс с pipeline и точностью на русском — ai.mborodkina.ru/cases\n\nУ кого сейчас архивы лекций / интервью / записей звонков лежат?",
+          "pk": "17988120081044132",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DcNwFuWDBFE",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 0,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1787127844,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk2NzAzODM0NjM3NTIwNTE4OCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DcNwFuWDBFE"
+      },
+      {
+        "id": "3964500933828772118_42773128424",
+        "pk": "3964500933828772118",
+        "user": {
+          "friendship_status": null,
+          "pk": "42773128424",
+          "profile_pic_url": "https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/746377750_18070627346424425_754283908486889696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGb8GnyT76dbo0QlYSeValEP-0QOL6Vm5TXL4c5Fb-onNt-ajocICP7TVBRkl2c9_w&_nc_ohc=NEVBuT1KUxIQ7kNvwFB6VU-&_nc_gid=S4cAZbqR5Sz7bqdyfaxE1A&edm=AA3DLpEBAAAA&ccb=7-5&oh=00_AQLE9RxLcL8ERBfTWXnq9Ub3Kh_d-5P7Ixu9Aan9U10AsQ&oe=6ABC2E70&_nc_sid=d92198",
+          "username": "vibecoder.maria",
+          "id": "42773128424",
+          "transparency_label": null,
+          "transparency_product": null,
+          "transparency_product_enabled": false,
+          "is_verified": false,
+          "text_post_app_is_private": false,
+          "has_onboarded_to_text_post_app": true
+        },
+        "text_post_app_info": {
+          "show_header_follow": false,
+          "is_markup": false,
+          "custom_feed_preview_info": null,
+          "link_preview_attachment": null,
+          "linked_inline_media": null,
+          "special_effects_enabled_str": "",
+          "text_fragments": {
+            "fragments": [
+              {
+                "fragment_type": "plaintext",
+                "link_fragment": null,
+                "mention_fragment": null,
+                "plaintext": "Кейс из работы за август.\n\nКлиент — агентство. Одна из его рутинных задач — готовить для заказчиков подборки экспертов под конкретную тему.\n\nРаньше — несколько часов ручной работы, обычный текстовый файл. Итог приходилось ещё доводить руками.\n\nПодключила клиенту AI-агента и написала скилл под эту рутину. Теперь: несколько минут, готовый PDF в фирменном стиле, отправляется заказчику как есть.\n\nА какая рутина у тебя первая напросится под AI-скилл?",
+                "tag_fragment": null,
+                "linkified_web_url": null
+              }
+            ]
+          },
+          "reshare_count": null,
+          "direct_reply_count": 2,
+          "repost_count": 0,
+          "quote_count": 0,
+          "share_info": {
+            "quoted_attachment_author_attribution_allowed": true,
+            "quoted_attachment_post_unavailable": false,
+            "quoted_attachment_post": null,
+            "quoted_post": null,
+            "reposted_post": null
+          },
+          "reply_to_author": null,
+          "reply_control": "everyone",
+          "private_reply_partner": null,
+          "self_thread_count": 0,
+          "tag_header": null,
+          "root_post_author": null,
+          "pinned_post_info": {
+            "is_pinned_to_parent_post": false,
+            "is_pinned_to_profile": false
+          },
+          "related_trends_info": null,
+          "is_reply": false,
+          "is_post_unavailable": false,
+          "post_unavailable_reason": null,
+          "hush_info": null
+        },
+        "is_paid_partnership": null,
+        "audio": null,
+        "caption": {
+          "text": "Кейс из работы за август.\n\nКлиент — агентство. Одна из его рутинных задач — готовить для заказчиков подборки экспертов под конкретную тему.\n\nРаньше — несколько часов ручной работы, обычный текстовый файл. Итог приходилось ещё доводить руками.\n\nПодключила клиенту AI-агента и написала скилл под эту рутину. Теперь: несколько минут, готовый PDF в фирменном стиле, отправляется заказчику как есть.\n\nА какая рутина у тебя первая напросится под AI-скилл?",
+          "pk": "18052232522569083",
+          "has_translation": true
+        },
+        "caption_is_edited": false,
+        "transcription_data": null,
+        "carousel_media": null,
+        "code": "DcEvJgwkYEW",
+        "image_versions2": {
+          "candidates": []
+        },
+        "original_height": 612,
+        "original_width": 612,
+        "accessibility_caption": null,
+        "video_versions": null,
+        "has_audio": null,
+        "media_type": 19,
+        "caption_add_on": null,
+        "giphy_media_info": null,
+        "media_overlay_info": null,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "sharing_friction_payload": null
+        },
+        "like_count": 1,
+        "metaPlace": null,
+        "meta_place": null,
+        "gen_ai_detection_method": null,
+        "taken_at": 1786825361,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjJjNGQxN2Q0ZmNlOTQ4OWRhNjNmZjM5YzViZWFjODBhMzk2NDUwMDkzMzgyODc3MjExOCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "logging_info_token": null,
+        "like_and_view_counts_disabled": false,
+        "url": "https://www.threads.com/@vibecoder.maria/post/DcEvJgwkYEW"
+      }
+    ]
+  }
+}

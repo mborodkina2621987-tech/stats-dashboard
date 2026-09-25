@@ -1,0 +1,85 @@
+{
+  "platform": "tiktok",
+  "handle": "frozenmenu",
+  "fetched_at": "2026-09-25T13:11:31.878735+00:00",
+  "profile": {
+    "success": true,
+    "credits_remaining": 21021,
+    "credits_charged": 1,
+    "user": {
+      "id": "7648739103169299476",
+      "shortId": "",
+      "uniqueId": "frozenmenu",
+      "nickname": "frozenmenu",
+      "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8803600044cfd5986df4d8567e532717~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=600315e2&x-expires=1790514000&x-signature=xd4eiBteH0QCi2X8mY8IQBLxE08%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8803600044cfd5986df4d8567e532717~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fc021863&x-expires=1790514000&x-signature=cj6touBh4gMtxF1vFYSRzRsxU7w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8803600044cfd5986df4d8567e532717~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=a3a90d4c&x-expires=1790514000&x-signature=N6bavAVjduQZTKyGvTQ12OU5k%2Bc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "signature": "Рецепты. Готовишь раз в неделю — ешь каждый день. http://t.me/frozenmenu",
+      "createTime": 1780860875,
+      "verified": false,
+      "secUid": "MS4wLjABAAAAyyHMUw_hFlqOK4VAnhTHFRjxk5pYlYIcD2xWBvzQBKrZSPjQlUgubcjbS76paE48",
+      "ftc": false,
+      "relation": 0,
+      "openFavorite": false,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+        "commerceUser": false
+      },
+      "duetSetting": 0,
+      "stitchSetting": 0,
+      "privateAccount": false,
+      "secret": false,
+      "isADVirtual": false,
+      "roomId": "",
+      "uniqueIdModifyTime": 1789245169,
+      "ttSeller": false,
+      "downloadSetting": 0,
+      "profileTab": {
+        "showMusicTab": false,
+        "showQuestionTab": false,
+        "showPlayListTab": false
+      },
+      "followingVisibility": 1,
+      "recommendReason": "",
+      "nowInvitationCardUrl": "",
+      "nickNameModifyTime": 1789245154,
+      "isEmbedBanned": false,
+      "canExpPlaylist": true,
+      "profileEmbedPermission": 1,
+      "language": "ru",
+      "eventList": [],
+      "suggestAccountBind": false,
+      "isOrganization": 0,
+      "UserStoryStatus": 0,
+      "shortDramaCreator": {}
+    },
+    "stats": {
+      "followerCount": 2,
+      "followingCount": 0,
+      "heart": 0,
+      "heartCount": 0,
+      "videoCount": 0,
+      "diggCount": 0,
+      "friendCount": 0
+    },
+    "statsV2": {
+      "followerCount": "2",
+      "followingCount": "0",
+      "heart": "0",
+      "heartCount": "0",
+      "videoCount": "0",
+      "diggCount": "0",
+      "friendCount": "0"
+    },
+    "itemList": []
+  },
+  "posts": {
+    "success": true,
+    "credits_remaining": 21020,
+    "credits_charged": 1,
+    "max_cursor": null,
+    "has_more": false,
+    "status_code": 0,
+    "aweme_list": []
+  }
+}
