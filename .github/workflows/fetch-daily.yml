@@ -28,6 +28,7 @@ jobs:
         run: python scripts/fetch_all.py
 
       - name: Commit daily snapshots
+        if: always()  # keep the accounts that did succeed; the job stays red
         run: |
           git config user.name "stats-dashboard-bot"
           git config user.email "bot@stats-dashboard.local"
